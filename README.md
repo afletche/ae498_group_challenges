@@ -1,2 +1,2 @@
 # ae498_group_challenges
-reppo for group challenges for ae498
+repo for group challenges for ae498
